@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: Udacityproject-env
+    environment: Udacityproject
   main:
-    environment: Udacityproject-env
+    environment: Udacityproject
 environment-defaults:
   Udacityproject-env:
     branch: null
@@ -10,7 +10,7 @@ environment-defaults:
 global:
   application_name: udacity_project
   default_ec2_keyname: null
-  default_platform: Node.js 16 running on 64bit Amazon Linux 2/5.6.0
+  default_platform: Node.js 14 running on 64bit Amazon Linux 2/5.6.0
   default_region: us-east-1
   include_git_submodules: true
   instance_profile: null
