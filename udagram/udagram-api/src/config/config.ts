@@ -17,5 +17,5 @@ export const config = {
   url: process.env.URL,
   jwt: {
     secret: process.env.JWT_SECRET,
-  },
+  },port:process.env.port
 };
