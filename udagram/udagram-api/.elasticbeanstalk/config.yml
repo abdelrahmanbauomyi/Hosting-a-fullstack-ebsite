@@ -1,6 +1,8 @@
 branch-defaults:
   default:
     environment: Udacityproject-env
+  main:
+    environment: Udacityproject-env
 environment-defaults:
   Udacityproject-env:
     branch: null
