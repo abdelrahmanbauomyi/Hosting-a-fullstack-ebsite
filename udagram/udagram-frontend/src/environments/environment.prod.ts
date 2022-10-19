@@ -5,7 +5,7 @@
 export const environment = {
   production: true,
   appName: 'Udagram',
-  apiHost: 'http://localhost:8080/api/v0',
+  apiHost: 'http://udacityproject-env.eba-2ap8nkup.us-east-1.elasticbeanstalk.com/',
 };
 
 /*
