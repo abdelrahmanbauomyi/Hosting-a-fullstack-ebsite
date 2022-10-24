@@ -13,7 +13,7 @@
 
 
 # Udagram
-[Access the hosted website](http://udacityprojectapppppp.s3-website-us-east-1.amazonaws.com/)
+
 
 
 # description
